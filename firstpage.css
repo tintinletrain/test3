@@ -34,8 +34,8 @@ h1 {
 .button {
     display: inline;
     position: absolute;
-    top: 50px; /* Ajustez ces valeurs selon vos besoins */
-    left: 100px; /* Ajustez ces valeurs selon vos besoins */
+    top: 500px; /* Ajustez ces valeurs selon vos besoins */
+    left: 1000px; /* Ajustez ces valeurs selon vos besoins */
     padding: 10px 20px;
     margin: 10px;
     background-color: #4CAF50; /* Couleur de fond verte */
